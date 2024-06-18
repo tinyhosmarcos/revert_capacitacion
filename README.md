@@ -1,1 +1,4 @@
 # revert_capacitacion
+
+
+ESTE ES EL README DEL PRIMER MVP QUE SE HA SUBIDO
