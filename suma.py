@@ -10,4 +10,4 @@ def suma(A,B):
 
     
 def suma3(A,B):
-    #cambio
+    return A + B * 3
